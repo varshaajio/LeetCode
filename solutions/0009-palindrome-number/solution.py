@@ -1,9 +1,3 @@
-class Solution(object):
-    def isPalindrome(self, x):
-        """
-        :type x: int
-        :rtype: bool
-        """
-        s=str(x)
-        return s==s[::-1]
-            
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        return True if str(x)==str(x)[::-1] else False
