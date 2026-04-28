@@ -1,4 +1,4 @@
-# Leetcode-solved-solutions
+# Leetcode
 A collection of well-documented LeetCode solutions in Python, categorized by difficulty and data structure, focusing on optimal time and space complexity.
 # LeetCode Solutions Archive
 
