@@ -1,6 +1,4 @@
 # Leetcode
-A collection of well-documented LeetCode solutions in Python, categorized by difficulty and data structure, focusing on optimal time and space complexity.
-# LeetCode Solutions Archive
 
 ![LeetCode Stats](https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode)
 ![Language](https://img.shields.io/badge/Language-Python%20%7C%20Java-blue?style=for-the-badge)
