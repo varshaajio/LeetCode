@@ -1,4 +1,4 @@
-# Leetcode
+# LeetCode
 
 ![LeetCode Stats](https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode)
 ![Language](https://img.shields.io/badge/Language-Python%20%7C%20Java-blue?style=for-the-badge)
