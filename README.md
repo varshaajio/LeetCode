@@ -48,5 +48,5 @@ Every solution in this repository follows a quality standard:
 
 ## Contact & Profiles
 
-- **LeetCode Profile:** [YourUsername](https://leetcode.com/u/yourusername/)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
+- **LeetCode Profile:** [YourUsername](https://leetcode.com/u/varshaajio/)
+- **LinkedIn:** [Your Name](https://linkedin.com/in/varshaajio)
