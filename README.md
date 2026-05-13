@@ -21,9 +21,9 @@ The solutions are organized by difficulty and topic to ensure easy navigation:
 
 | # | Title | Difficulty | Solution | Time | Space | Tag |
 |---|---|---|---|---|---|---|
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Link](./Easy/TwoSum.py) | O(n) | O(n) | Hash Map |
-| 015 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [Link](./Medium/3Sum.py) | O(n²) | O(1) | Two Pointers |
-| 042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Link](./Hard/TrappingRain.py) | O(n) | O(1) | Stack |
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Link](https://github.com/varshaajio/LeetCode/tree/main/solutions/0001-two-sum) | O(n) | O(n) | Hash Map |
+| 015 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [Link](https://github.com/varshaajio/LeetCode/tree/main/solutions/0015-3sum) | O(n²) | O(1) | Two Pointers |
+| 042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Link](https://github.com/varshaajio/LeetCode/tree/main/solutions/0042-trapping-rain-water) | O(n) | O(1) | Stack |
 
 ---
 
