@@ -1,11 +1,16 @@
 name: Sync Leetcode
+
 on:
-  workflow_dispatch:     
+  workflow_dispatch:
   schedule:
-    - cron: '30 16 * * *'  
+    - cron: '30 16 * * *'
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    
     steps:
       - name: Sync
         uses: joshcai/leetcode-sync@v1.7
