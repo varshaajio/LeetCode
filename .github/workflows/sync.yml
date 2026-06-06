@@ -1,4 +1,4 @@
-name: Sync Leetcode
+ame: Sync Leetcode
 
 on:
   workflow_dispatch:
@@ -8,13 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     env:
-      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
-
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    
     steps:
       - name: Sync
-        uses: joshcai/leetcode-sync@v1.7
+        uses: joshcai/leetcode-sync@master
         with:
           github-token: ${{ secrets.PAT_GITHUB_TOKEN }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
